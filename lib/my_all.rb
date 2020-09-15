@@ -14,4 +14,3 @@ end
 #  collection.all? << block_return_values
 #end
 #end
-  
